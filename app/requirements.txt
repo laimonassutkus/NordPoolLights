@@ -1,0 +1,3 @@
+python-miio==0.5.12
+boto3==1.34.21
+requests==2.31.0
